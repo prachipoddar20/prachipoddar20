@@ -6,8 +6,6 @@
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 </div>
       <h3>My skills include</h3>
-
-
   <p >
       <img src="icons/csharp.png" width="70" height="40" />
       <img src="icons/dotnet.png" width="70" height="40" />
@@ -33,6 +31,13 @@
         
      
 </details>
+
+<p align="center">
+<code>(x^2 + y^2 – 1)^3 = x^2 y^3</code> 
+<a href="https://github.com/satyajitghana">
+ <img src="https://badgen.net/badge/icon/github?icon=github&label=satyajitghana"/>
+</a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/prachipoddar20?v=3)
 
