@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <h2> Hi there 👋 I am 𝒫𝓇𝒶𝒸𝒽𝒾 !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+    <a href="https://www.linkedin.com/in/prachi-poddar-597814190/" target="_blank"><img alt="Prachi's LinkedIn" 
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+    <a href="" target="_blank"><img alt="Gmail" 
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+</div>
+      
 
-<!--
-**prachipoddar20/prachipoddar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details align="center">
+    <summary> <samp> More</samp></summary>
+      <p align="center">
+        <br>
+          <img alt="Prachi Poddar's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=prachipoddar20&show_icons=true&theme=radical" />
+        <br>
+        
+     
+</details>
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/prachipoddar20?v=3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
