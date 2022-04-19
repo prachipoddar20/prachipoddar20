@@ -10,12 +10,16 @@
 
   <p >
       <img src="icons/csharp.png" width="70" height="40" />
+      <img src="icons/dotnet.png" width="70" height="40" />
       <img src="icons/python.png" width="70" height="40" />
-      <img src="icons/react.png" width="70" height="40" />
+      <img src="icons/cpp.png" width="70" height="40" />
       <img src="icons/mysql.svg" width="70" height="40" />
       <img src="icons/azure.png" width="70" height="40" />
       <img src="icons/git.svg" width="70" height="40" />
-      <img src="icons/cpp.png" width="70" height="40" />
+      <img src="icons/htmlncss.png" width="100" height="53" />
+      <img src="icons/js.png" width="70" height="40" />
+      <img src="icons/react.png" width="70" height="40" />
+      
   </p>
 
 
