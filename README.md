@@ -23,16 +23,5 @@
   </p>
 
 
-<details align="center">
-    <summary> <samp> More</samp></summary>
-      <p align="center">
-        <br>
-          <img alt="Prachi Poddar's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=prachipoddar20&show_icons=true&theme=radical" />
-        <br>
-        
-     
-</details>
 
-![Profile views](https://gpvc.arturio.dev/prachipoddar20?v=3)
 
